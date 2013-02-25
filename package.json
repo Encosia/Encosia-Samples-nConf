@@ -1,0 +1,9 @@
+{
+	"name": "Encosia-Samples-nConf",
+	"varsion": 1.0,
+	"description": "Sample code for the a blog post",
+	"author": "Dave Ward <dave@encosia.com>",
+	"dependencies": {
+		"nconf": ">= 0.6.7"
+	}
+}
